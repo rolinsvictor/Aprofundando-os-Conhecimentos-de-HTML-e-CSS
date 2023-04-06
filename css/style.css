@@ -1,0 +1,76 @@
+body {
+    background-color: #242E31;
+}
+
+.container1 {
+    width: 591px;
+    height: 192px;
+
+}
+
+.conteudo1 {
+    margin-top: 125px;
+    margin-left: 100px;
+
+}
+
+.container1 .conteudo1 #titulo1 {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #F8DFB0;
+    font-size: 40px;
+}
+
+.container1 .conteudo1 #text1 {
+    font-family: 'Numans', sans-serif;
+    color: #EADFCA;
+    font-size: 20px;
+}
+
+.container2 {
+    width: 551px;
+    height: 82px;
+    margin-left: 650px;
+}
+
+.conteudo2 {
+    margin-top: 125px;
+    margin-left: 100px;
+    
+}
+
+.container2 .conteudo2 #titulo2 {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #F8DFB0 ;
+    font-size: 40px; 
+}
+
+.container2 .conteudo2 #text2 {
+    font-family: 'Numans', sans-serif;
+    color: #EADFCA;
+    font-size: 20px; 
+}
+.container3 {
+    padding-top: 125px;
+    width: 551px;
+    height: 82px;
+}
+
+.conteudo3 {
+    margin-top: 96px;
+    margin-left: 100px;
+    margin-b
+}
+
+.container3 .conteudo3 #titulo3 {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #F8DFB0 ;
+    font-size: 40px; 
+}
+
+.container3 .conteudo3 #text3 {
+    font-family: 'Numans', sans-serif;
+    color: #EADFCA;
+    font-size: 20px; 
+    margin-bottom: 125px;
+}
+
