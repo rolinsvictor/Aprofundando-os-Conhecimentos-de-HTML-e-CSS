@@ -53,12 +53,12 @@ body {
     padding-top: 125px;
     width: 551px;
     height: 82px;
+    border-top: 125px;
 }
 
 .conteudo3 {
     margin-top: 96px;
     margin-left: 100px;
-    margin-b
 }
 
 .container3 .conteudo3 #titulo3 {
@@ -71,6 +71,5 @@ body {
     font-family: 'Numans', sans-serif;
     color: #EADFCA;
     font-size: 20px; 
-    margin-bottom: 125px;
 }
 
